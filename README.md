@@ -5,7 +5,7 @@ Option A: Using Conda/pip downloads
 
 1. Clone the repositiory and navigate into the tool main folder (where setup.py is located)
 
-    `git clone https://github.com/AMK06-1993/PlasticEnz.git`
+    <pre> ```git clone https://github.com/AMK06-1993/PlasticEnz.git``` </pre>
 
 2. Set Up the Conda Environment with External Tools
 Since some external tools aren’t available via pip, start by creating a new conda environment with all required tools. Open your terminal and run:
