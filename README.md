@@ -1,4 +1,7 @@
 
+![logo-transparent](https://github.com/user-attachments/assets/5eb22c43-970c-4945-9970-8dc012438753)
+
+
 # How to Download and Run PlasticEnz
 
 ## Option A: Using Conda/pip downloads
